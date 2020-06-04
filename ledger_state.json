@@ -1,0 +1,57 @@
+{
+    "walletInfo": {
+        "paymentId": "38a450fe-38b9-4630-abe5-dce5eba25cd3",
+        "addressCARD_ID": "090b3274-e66c-4c9f-9dbf-cbf12a302449",
+        "keyInfoSeed": "h3LW7htUYNhtNaxEmriLN1ox6o/9BtSFiYZnyoNmLaQ="
+    },
+    "bootStamp": 1591253820,
+    "reconcileStamp": 1593845820,
+    "personaId": "e9ad53ed-abd3-4a3c-b1fb-7092481ba1fe",
+    "userId": "e9ad53edabd3a3cb1fb7092481ba1fe",
+    "registrarVK": "==========ANONLOGIN_VK_BEG==========\n5Zo7fjdryszdwgAZO+HiK18yErXRoPvRkmYmo4E2UQV 4NMDAdwHg0z3LdGN3KkOoFLbza3SpeUWBcMKOUvJ8O1 1\n7MpAGVMgs+tuMQs4pH+nKUh0M+rl21RyUAdhRHKGhq4 5LXnl7uUw0XwaSTIojyDh4hODTEcT5BAiAhPCGIItDM 1\n2qtVvVwfxlDGzPSXXl0Ms94eycXiUJpthRp6uAjrjW8 Auhpv58KOuncZfXB1eekbOwTXloSAgPPRJ3A1g2a1MZ 1\n41nN9zSpWB6xfefhy/BWOouZnE5Vz+Akgtu3WavASEJ AF4pxNogZT38xdPdxe51RIGaFXKNVj3K2vbfN3uzI1T 1\n31ND6Q8qewDElWUU88rMWn4RZl95sjbSvoimlfsVFEg 8VjyRwkfd4dWwMQhShAIiyY0L9tOiJIR4PWlRIwyQs6 wLm/Ph3gh2ZtdqNbGJIcQM1LoCr+23zELEwUKvAnSL 1sWQdlB2UL0xSqgNcb9NObxiSof322GgHUg2nq43Y4l 1 0\n===========ANONLOGIN_VK_END==========",
+    "masterUserToken": "==========ANONLOGIN_CRED_BEG==========\ne9ad53edabd3a3cb1fb7092481ba1fe\n6yKkC2LR8YV69a8lANwW9lLuuE4OAOhY+G61Gg3tziT\nAxPqRoI9aTBm3zUwBHS4rK6ZG4A2oiM0LNqJHXjXrBv 2TcFA/6WUS6mn/P3ThybrzxjN726383fDPIApffgdCX 1\nhntktd5bBtbse34MI0/M2j8sY7WWwsXp0wwtOnlDLw\n3LFNzU/R16yasH/5fV0WfIszCjoPUD/FJtj2bqDpzWh\n===========ANONLOGIN_CRED_END==========",
+    "preFlight": "==========ANONLOGIN_CRED_BEG==========\ne9ad53edabd3a3cb1fb7092481ba1fe\n6yKkC2LR8YV69a8lANwW9lLuuE4OAOhY+G61Gg3tziT\n0 0 0\n0\n3LFNzU/R16yasH/5fV0WfIszCjoPUD/FJtj2bqDpzWh\n===========ANONLOGIN_CRED_END==========",
+    "fee_currency": "BAT",
+    "settings": "adFree",
+    "fee_amount": 20.0,
+    "user_changed_fee": false,
+    "days": 30,
+    "rewards_enabled": true,
+    "auto_contribute": true,
+    "transactions": [],
+    "ballots": [],
+    "batch": [],
+    "current_reconciles": {},
+    "walletProperties": {
+        "fee_amount": 20.0,
+        "parameters": {
+            "adFree": {
+                "fee": {
+                    "BAT": 20.0
+                },
+                "choices": {
+                    "BAT": [
+                        5.0,
+                        10.0,
+                        15.0,
+                        20.0,
+                        25.0,
+                        50.0,
+                        100.0
+                    ]
+                }
+            },
+            "defaultTipChoices": [
+                "1.000000",
+                "10.000000",
+                "100.000000"
+            ],
+            "defaultMonthlyChoices": [
+                "1.000000",
+                "10.000000",
+                "100.000000"
+            ]
+        }
+    },
+    "inlineTip": {}
+}
