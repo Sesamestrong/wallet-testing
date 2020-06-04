@@ -1,0 +1,7 @@
+image: mitmproxy/mitmproxy
+tasks:
+  - init:
+    command: mitmweb -r walletCreation
+ports:
+  - port:8081
+    onOpen:open-preview
