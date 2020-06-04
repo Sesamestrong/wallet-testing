@@ -1,10 +1,10 @@
 image: mitmproxy/mitmproxy
 tasks:
-  - init: git clone https://github.com/brave/brave-core
-    command: mitmproxy -r walletCreation
+  - command: mitmproxy -r walletCreation
     name: Web Requests
     openIn: main
-  - command: cd brave-core/vendor/bat-native-ledger/src/bat/ledger && grep -r client_properties .
+  - init: git clone https://github.com/brave/brave-core
+    command: cd brave-core/vendor/bat-native-ledger/src/bat/ledger && grep -r client_properties .
     name: Ledger source
     openIn: bottom
 ports:
