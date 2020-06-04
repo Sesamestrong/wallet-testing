@@ -2,3 +2,6 @@ image: mitmproxy/mitmproxy
 tasks:
   - init: git clone https://github.com/brave/brave-core
     command: mitmproxy -r walletCreation
+ports:
+  - port: 8080
+    onOpen: ignore
