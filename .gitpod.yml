@@ -1,3 +1,4 @@
 image: mitmproxy/mitmproxy
 tasks:
-  - command: mitmproxy -r walletCreation
+  - init: git clone https://github.com/brave/brave-core
+    command: mitmproxy -r walletCreation
